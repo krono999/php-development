@@ -11,7 +11,6 @@ Este proyecto fue desarrollado para la evaluación técnica de Conti. Está cons
 - PHP 8.1 o superior
 - Composer
 - MySQL o MariaDB
-- Node.js y NPM (opcional, para assets)
 
 ## Instalación
 
