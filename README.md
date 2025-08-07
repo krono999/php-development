@@ -1,6 +1,6 @@
 # Evaluación Técnica - Desarrollador PHP
 
-**Autor:** Nicolás Nuñéz
+**Autor:** Nicolás Núñez
 
 ## Breve Descripción
 
